@@ -1,0 +1,448 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Catego",
+				"categories"
+			],
+			[
+				"C",
+				"Category"
+			],
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"fu",
+				"full_name"
+			],
+			[
+				"in",
+				"info"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 81.0,
+		"selected_items":
+		[
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/work/GitHub/trinityglobaldestination/index.html",
+		"/D/work/GitHub/trinityglobaldestination/css/theme.css",
+		"/D/work/GitHub/trinityglobaldestination/js/superfish.js",
+		"/D/work/GitHub/trinityglobaldestination/js/myscript.js",
+		"/D/work/GitHub/trinityglobaldestination/css/prettyPhoto.css",
+		"/D/work/GitHub/trinityglobaldestination/css/camera.css",
+		"/D/work/GitHub/trinityglobaldestination/about.html",
+		"/D/work/GitHub/trinityglobaldestination/css/bootstrap.css",
+		"/D/work/GitHub/trinityglobaldestination/contacts.html",
+		"/D/work/GitHub/trinityglobaldestination/contact_form/contact_process.php",
+		"/D/work/GitHub/AdminUI/js/menus.js",
+		"/D/work/GitHub/AdminUI/menus.html",
+		"/D/work/GitHub/AdminUI/admin/index.html",
+		"/D/work/GitHub/AdminUI/.htaccess",
+		"/C/Users/hp/Desktop/menus items/menus js.txt",
+		"/C/Users/hp/Desktop/menus items/menu html.txt",
+		"/D/work/GitHub/AdminUI/notes.md",
+		"/D/work/GitHub/AdminUI/data/Menus.json",
+		"/D/work/GitHub/AdminUI/js/myfoodinc.js",
+		"/D/work/GitHub/AdminUI/restaurant-locations.html",
+		"/D/work/GitHub/AdminUI/js/restaurant-locations.js",
+		"/D/work/GitHub/AdminUI/data/Restaurants.json",
+		"/D/work/GitHub/AdminUI/js/items.js",
+		"/D/work/GitHub/AdminUI/items.html",
+		"/D/work/GitHub/AdminUI/data/Items.json",
+		"/D/work/GitHub/AdminUI/js/ace.js",
+		"/D/work/GitHub/AdminUI/Add_rest.html",
+		"/D/work/GitHub/AdminUI/assets/css/ddlevelsmenu-topbar.css",
+		"/D/work/GitHub/AdminUI/assets/css/ddlevelsmenu-base.css",
+		"/D/work/GitHub/AdminUI/assets/js/ddlevelsmenu.js",
+		"/D/work/GitHub/AdminUI/Restaurant.html",
+		"/D/work/GitHub/AdminUI/reservation.html",
+		"/D/work/GitHub/AdminUI/assets/js/uncompressed/respond.src.js",
+		"/D/work/GitHub/AdminUI/report.html",
+		"/D/work/GitHub/AdminUI/myfoodinc-sublime.sublime-project",
+		"/D/work/GitHub/AdminUI/menus1.html",
+		"/D/work/GitHub/AdminUI/.htacccess",
+		"/D/work/GitHub/AdminUI/.DS_Store",
+		"/C/Users/hp/Desktop/videos/Lynda.com - JavaScript and JSON/Ex_Files_JScript_JSON/Ex_Files_JScript_JSON/Exercise Files/04-04/finished/index.html",
+		"/D/work/GitHub/AdminUI/assets/css/less/icon-animated.less",
+		"/D/work/GitHub/AdminUI/assets/js/x-editable/ace-editable.min.js",
+		"/D/work/GitHub/AdminUI/index.html",
+		"/C/Users/hp/Desktop/ha.html",
+		"/C/wamp/www/main work/rotary-zenith/htdocs/htdocs/index.html",
+		"/C/wamp/www/main work/rotary-zenith/htdocs/htdocs/css/rotary-style.css",
+		"/C/wamp/www/main work/rotary-zenith/htdocs/htdocs/css/style.css",
+		"/C/wamp/www/main work/rotary-zenith/htdocs/htdocs/js/ddlevelsmenu.js",
+		"/C/wamp/www/main work/rotary-zenith/htdocs/htdocs/js/zenith.js",
+		"/C/wamp/www/main work/rotary-zenith/htdocs/htdocs/index2.html",
+		"/C/wamp/www/main work/rotary-zenith/htdocs/htdocs/css/ddlevelsmenu-topbar.css",
+		"/C/wamp/www/main work/rotary-zenith/htdocs/htdocs/css/ddlevelsmenu-base.css",
+		"/C/wamp/www/main work/mycomponents/simplemenu/index.html",
+		"/C/wamp/www/Learning/workings/bootstrap-3.1.1/docs/examples/blog/custom.css",
+		"/C/wamp/www/Learning/workings/bootstrap-3.1.1/docs/examples/blog/index.html",
+		"/C/wamp/www/Learning/workings/bootstrap-3.1.1/docs/examples/blog/blog.css",
+		"/C/wamp/www/Learning/workings/bootstrap-3.1.1/docs/examples/signin/signin.css",
+		"/C/wamp/www/Learning/workings/bootstrap-3.1.1/docs/examples/signin/index.html",
+		"/C/wamp/www/Learning/workings/bootstrap-3.1.1/docs/examples/theme/index.html",
+		"/C/wamp/www/Learning/workings/bootstrap-3.1.1/docs/examples/theme/theme.css",
+		"/C/wamp/www/Learning/workings/bootstrap-3.1.1/docs/examples/navbar/index.html",
+		"/C/wamp/www/Learning/workings/bootstrap-3.1.1/docs/examples/navbar/navbar.css",
+		"/C/wamp/www/Learning/workings/bootstrap-3.1.1/docs/examples/justified-nav/custom.css",
+		"/C/wamp/www/Learning/workings/bootstrap-3.1.1/docs/examples/justified-nav/justified-nav.css",
+		"/C/wamp/www/Learning/workings/bootstrap-3.1.1/docs/examples/justified-nav/index.html",
+		"/C/wamp/www/Learning/workings/bootstrap-3.1.1/docs/examples/jumbotron-narrow/index.html",
+		"/C/wamp/www/Learning/workings/bootstrap-3.1.1/docs/examples/jumbotron-narrow/jumbotron-narrow.css",
+		"/C/wamp/www/Learning/workings/bootstrap-3.1.1/docs/examples/jumbotron/jumbotron.css",
+		"/C/wamp/www/Learning/workings/bootstrap-3.1.1/docs/examples/grid/index.html",
+		"/C/wamp/www/Learning/workings/bootstrap-3.1.1/docs/examples/dashboard/dashboard.css",
+		"/C/wamp/www/Learning/workings/bootstrap-3.1.1/docs/examples/dashboard/index.html",
+		"/C/wamp/www/Learning/workings/bootstrap-3.1.1/docs/examples/cover/index.html",
+		"/C/wamp/www/Learning/workings/bootstrap-3.1.1/docs/examples/cover/cover.css",
+		"/C/wamp/www/Learning/workings/bootstrap-3.1.1/docs/examples/cover/custom.css",
+		"/C/wamp/www/Learning/workings/bootstrap-3.1.1/docs/examples/carousel/index.html",
+		"/C/wamp/www/Learning/workings/bootstrap-3.1.1/docs/examples/carousel/custom.css",
+		"/C/wamp/www/Learning/workings/bootstrap-3.1.1/docs/examples/carousel/carousel.css",
+		"/C/wamp/www/Learning/workings/modern-business/index.html",
+		"/C/Users/hp/Desktop/theme/candy-new/Candy/index.php",
+		"/C/wamp/www/Learning/workings/modern-business/css/custom.css",
+		"/C/Users/hp/Downloads/modern-business/modern-business/index.html",
+		"/C/wamp/www/main work/mycomponents/simplemenu/simplemenu.css",
+		"/C/wamp/www/Learning/workings/bootstrap-3.1.1/docs/examples/navbar-fixed-top/navbar-fixed-top.css",
+		"/C/wamp/www/Learning/workings/bootstrap-3.1.1/docs/examples/navbar-fixed-top/index.html",
+		"/C/wamp/www/Learning/workings/bootstrap-3.1.1/dist/css/bootstrap.min.css",
+		"/C/wamp/www/Learning/workings/bootstrap-3.1.1/docs/examples/starter-template/custom.css",
+		"/C/wamp/www/Learning/workings/bootstrap-3.1.1/docs/examples/starter-template/starter-template.css",
+		"/C/wamp/www/Learning/workings/bootstrap-3.1.1/docs/examples/starter-template/index.html",
+		"/C/wamp/www/Learning/workings/modern-business/css/bootstrap.css",
+		"/C/wamp/www/Learning/workings/modern-business/css/modern-business.css",
+		"/C/Users/hp/Desktop/videos/Lynda.com - JavaScript and JSON/Ex_Files_JScript_JSON/Ex_Files_JScript_JSON/Exercise Files/02-03/workingfolder/json/index.html",
+		"/C/Users/hp/Desktop/videos/Lynda.com - JavaScript and JSON/Ex_Files_JScript_JSON/Ex_Files_JScript_JSON/Exercise Files/02-01/json/index.html",
+		"/C/Users/hp/Desktop/videos/Lynda.com - JavaScript and JSON/Ex_Files_JScript_JSON/Ex_Files_JScript_JSON/Exercise Files/01-04/json/index.html",
+		"/C/Users/hp/Desktop/python/google-python-exercises/basic/solution/list1.py",
+		"/C/Users/hp/Desktop/python/google-python-exercises/basic/solution/list2.py"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"send_btn",
+			"#d00b01",
+			"breadcrumb",
+			"#d00b01",
+			"d00b01",
+			"news_t",
+			"newscarousel",
+			"news_t",
+			"camera_wrap",
+			"data-src",
+			"camera_wrap_1",
+			"camera_wrap",
+			"main_slider",
+			"nav",
+			"main_menu",
+			"Menu",
+			"menuName",
+			"CateList",
+			"txtCatName",
+			"tab-content",
+			"menuId",
+			"modal-menuadd-form",
+			"menuDetails",
+			"btnSaveCat",
+			"btnSaveMnu",
+			"modal-menuadd-form",
+			"modal-category-form",
+			"btnSaveItem",
+			"modal-remove-menu",
+			"btnRemoveMenu",
+			"myResAddForm",
+			"myRestaurantTab",
+			"d-add-rest-btn",
+			"modal-add-item",
+			"myResAddForm",
+			"modal-menuadd-form",
+			"constructTr",
+			"itemName",
+			"btnSaveItem",
+			"btnCancelMnu",
+			"modal-add-item",
+			"rest-main-tab",
+			"ready",
+			"rest-main-tab",
+			"modal-menuadd-form",
+			"id-btn-dialogac1",
+			"modal-menuadd-form",
+			"btnAddMenu",
+			"modal-menuadd-form",
+			"#modal-menuadd-form",
+			"Update Item",
+			"Variant Type",
+			"Update Item",
+			"msg",
+			"variationType",
+			"btnSaveItem",
+			"variant-table",
+			"btnSaveItem",
+			"modal-add-item",
+			"js-delete",
+			"fillVariant",
+			"simpleType",
+			"itemDescription",
+			"fillVariant",
+			"itemName",
+			"js-edit",
+			"variantTypeDiv",
+			"Contact Us",
+			"header",
+			"nav bars",
+			"nav",
+			"container",
+			"nav",
+			"nav-pills",
+			"dropdown-menu",
+			"navbar-wrapper",
+			"inverse",
+			"navbar-inverse",
+			"navbar-wrapper",
+			"blog-nav",
+			"container",
+			"navbar-nav",
+			"navbar-inverse",
+			"1900x180",
+			"open",
+			"navbar-nav",
+			"dropdown-menu",
+			"dropdown-toggle",
+			"dropdown-menu",
+			"dropdown-toggle",
+			".navbar-inverse",
+			"icon-bar",
+			"icon-bar\n",
+			"    \n",
+			"navbar-inverse",
+			"	\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "sublime trinity.sublime-project",
+	"replace":
+	{
+		"height": 38.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"css\\bootstrap.css"
+			],
+			[
+				"notes",
+				"notes.md"
+			],
+			[
+				"menus.j",
+				"js\\menus.js"
+			],
+			[
+				"menus.ht",
+				"menus.html"
+			],
+			[
+				"ace.js",
+				"js\\ace.js"
+			],
+			[
+				"no",
+				"notes.md"
+			],
+			[
+				"menus.js",
+				"data\\Menus.json"
+			],
+			[
+				"menus",
+				"menus.html"
+			],
+			[
+				"rest",
+				"data\\Restaurants.json"
+			],
+			[
+				"item",
+				"data\\Items.json"
+			],
+			[
+				"items",
+				"js\\items.js"
+			],
+			[
+				"menus.",
+				"js\\menus.js"
+			],
+			[
+				"menus.html",
+				"menus.html"
+			],
+			[
+				"add_rest.html",
+				"Add_rest.html"
+			],
+			[
+				"rseturant",
+				"js\\restaurant-locations.js"
+			],
+			[
+				"my",
+				"js\\myfoodinc.js"
+			],
+			[
+				"items.js",
+				"js\\items.js"
+			],
+			[
+				"items.html",
+				"items.html"
+			],
+			[
+				"item.js",
+				"js\\items.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+		],
+		"width": 456.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 250.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

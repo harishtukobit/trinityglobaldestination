@@ -24,7 +24,7 @@ body { overflow-x:hidden;
 }
 .author {
 	padding-top:7px;
-	color:#d00b01;
+	color:green;  /*change testimonals name*/
 	font-style:italic;
 }
 img {
@@ -82,7 +82,7 @@ img {
 	float:right;
 }
 .menu_wrap {
-  padding-top: 10px;
+  padding-top: 5px;
   float:right;
 }
 .menu_wrap .nav li {
@@ -104,7 +104,8 @@ img {
 }
 .menu_wrap .nav li a {
   line-height:18px;
-  color: #313131;
+  color: blue;
+ /* color: #313131;*/
   font-family: 'Open Sans', sans-serif;
   font-weight:800;
   font-size:14px;
@@ -154,7 +155,7 @@ img {
   zoom: 1;
   z-index: 25;
   background:#fff;
-  border-top:4px #031634 solid;
+  border-top:4px #031634 solid; for deop dow
   padding: 14px 0 7px 0;
   margin: 0;
 }
@@ -173,7 +174,8 @@ img {
   text-transform: none;
   font-size: 12px;
   font-weight:400;
-  color:#313131;
+  color:blue;
+  /*color:#313131;*/
   line-height: 18px;
   padding: 0 10px 7px 15px;
   background: none;
@@ -184,7 +186,8 @@ img {
 .menu_wrap .nav > li > ul li.sfHover > a,
 .menu_wrap .nav > li > ul li.current > a {
   text-decoration: none;
-  color:#d00b01;
+  /*color:#d00b01;*/
+  color:black;
 }
 .menu_wrap .nav > li > ul li > a:hover:before,
 .menu_wrap .nav > li > ul li.sfHover > a:before { background: none;  
@@ -210,7 +213,7 @@ img {
 }
 .block {padding-bottom:50px;
 }
-#main_slider {padding-bottom:70px;	
+#main_slider {padding-bottom:60px;	
 }
 
 .planning {
@@ -370,14 +373,14 @@ h2.upper {
 	text-transform:uppercase;
 	font-family: 'Open Sans', sans-serif;
 	font-weight:400;
-	color:#d00b01;
+	color:blue;
 }
 .post_carousel .title_t a, .news_t a {
 	font-size:17px;
 	text-transform:uppercase;
 	font-family: 'Open Sans', sans-serif;
 	font-weight:400;
-	color:#d00b01;
+	/*color:#d00b01;*/
 }
 .post_carousel .title_t a:hover, .news_t a:hover {
 	text-decoration:none;
@@ -395,7 +398,7 @@ h2.upper {
 	font-style:italic;
 } 
 .post_meta a:hover, .news a:hover {
-	color:#d00b01;
+	color:blue;
 	text-decoration:none;
 } 
 .arrow_link {
@@ -450,11 +453,11 @@ h2.upper {
 .news_info {color:#1e1e1e;
 }
 .news_info a {
-	color:#d00b01;
+	color:#d00b01;    /*change color*/
 	font-style:italic;
 }
 .news_info a:hover {
-	color:#1e1e1e;
+	color:#1e1e1e;       /*change color*/
 	text-decoration:none;
 }
 

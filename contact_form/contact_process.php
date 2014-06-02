@@ -49,9 +49,7 @@ if(!$error)
 {
 $mail = mail(CONTACT_FORM, $subject, $message,
      "From: ".$name." <".$email.">\r\n"
-    ."Reply-To: ".$email."\r\n"
-    ."X-Mailer: PHP/" . phpversion());
-
+    ."Reply-To: ".$email."\r\n");
 
 if($mail)
 {

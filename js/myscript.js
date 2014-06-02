@@ -36,19 +36,19 @@ $(document).ready(function(){
 		else $(this).attr('src',ifr_source+'?'+wmode);
 	});
 			
-	//Twitter Setup
-	$(".tweet_block").tweet({
-	  join_text: "auto",
-	  username: "envato",
-	  avatar_size: 0,
-	  count: 3,
-	  auto_join_text_default: "",
-	  auto_join_text_ed: "",
-	  auto_join_text_ing: "",
-	  auto_join_text_reply: "",
-	  auto_join_text_url: "",
-	  loading_text: "loading tweets..."
-	});	
+	// //Twitter Setup
+	// $(".tweet_block").tweet({
+	//   join_text: "auto",
+	//   username: "envato",
+	//   avatar_size: 0,
+	//   count: 3,
+	//   auto_join_text_default: "",
+	//   auto_join_text_ed: "",
+	//   auto_join_text_ing: "",
+	//   auto_join_text_reply: "",
+	//   auto_join_text_url: "",
+	//   loading_text: "loading tweets..."
+	// });	
 	
 	//Tooltip
 	$('.follow_us a').tooltip();
